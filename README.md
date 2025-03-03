@@ -34,10 +34,6 @@ This repository contains solutions to two assignments for the NLP exam addressin
 
 ---
 
-Sure! Here’s the **Download & Setup** section you can add to your README:
-
----
-
 ## 📥 Download & Setup
 
 To clone this repository, run:
