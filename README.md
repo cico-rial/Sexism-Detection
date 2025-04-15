@@ -2,6 +2,8 @@
 
 This repository contains solutions to two assignments for the NLP exam addressing the **detection and classification of sexism in online content**, specifically social media posts. Both assignments focus on different datasets and methodologies, providing a comprehensive look at **traditional machine learning pipelines** as well as **Large Language Model (LLM) prompting techniques**.
 
+Authors: Leonardo Chiarioni, Federico Faccioli, Shariq Mohd Ansari
+
 ---
 
 ## 📂 Repository Structure
